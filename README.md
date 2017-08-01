@@ -2,7 +2,7 @@
 
 ### Sharply Value: Rationale
 
-Consider the marginal contribution of player***i* **for all possible coalition *S ⊂ N \ {i}*  
+Consider the marginal contribution of player *i* for all possible coalition *S ⊂ N \ {i}*  
 
   * There are |*S*|! permutations in which all members in *S* precede *i*
   * There are (*n* - |*S*| - 1)! permutations in which all members not in *S* follow *i*  
@@ -14,7 +14,7 @@ Consider the marginal contribution of player***i* **for all possible coalition *
 
 ###  Input Explain
 
-input how many players in this coalition game and then input the **value** of players' combination number.  
+input how many players in this coalition game and then input the **VALUE** of players' combination number.  
 
 #### Example Input
 
@@ -31,11 +31,10 @@ input how many players in this coalition game and then input the **value** of pl
   
 ###  Output Explain
 
-it will show the results of every players' **sharply value**.
+it will show the results of every players' **SHARPLY VALUE**.
 
 #### Example Output  
   
   *P1 :* 21  
   *P2 :* 18  
   *P3 :* 15
-
