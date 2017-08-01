@@ -8,7 +8,7 @@ Consider the marginal contribution of player***i* **for all possible coalition *
   * There are (*n* - |*S*| - 1)! permutations in which all members not in *S* follow *i*  
   * *i* has the same marginal contribution in these permutations  
   
-![Formal definition]{https://wikimedia.org/api/rest_v1/media/math/render/svg/3bde57e0e8a7aa2d48d541b1a01b3cb47898c981}
+![Formal definition]{https://user-images.githubusercontent.com/30610447/28811567-b6db52bc-76c2-11e7-98f6-8f774ea5fb83.png}
   
 ---
 
