@@ -1,6 +1,6 @@
-# Coalition Game
+# Sharply Value (Coalition Game)
 
-### Sharply Value: Rationale
+### Rationale
 
 Consider the marginal contribution of player *i* for all possible coalition *S ⊂ N \ {i}*  
 
