@@ -16,7 +16,7 @@ Consider the marginal contribution of player *i* for all possible coalition *S �
 
 input how many players in this coalition game and then input the **VALUE** of players' combination number.  
 
-#### \#Example Input
+#### \# Example Input
 
 *Please input players number :* 3  
 *< P1 > value :* 18  
@@ -33,7 +33,7 @@ input how many players in this coalition game and then input the **VALUE** of pl
 
 it will show the results of every players' **SHARPLY VALUE**.
 
-#### \#Example Output  
+#### \# Example Output  
   
 *P1 :* 21  
 *P2 :* 18  
