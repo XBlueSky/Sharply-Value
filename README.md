@@ -35,8 +35,8 @@ it will show the results of every players' **SHARPLY VALUE**.
 
 #### Example Output  
   
-  *P1 :* 21  
-  *P2 :* 18  
-  *P3 :* 15  
+*P1 :* 21  
+*P2 :* 18  
+*P3 :* 15  
   
   
