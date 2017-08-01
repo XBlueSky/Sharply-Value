@@ -3,6 +3,7 @@
 ### Sharply Value: Rationale
 
 **Consider the marginal contribution of player***i* **for all possible coalition** *S ⊂ N \ {i}*  
+
   * There are |*S*|! permutations in which all members in *S* precede *i*
   * There are (*n* - |*S*| - 1)! permutations in which all members not in *S* follow *i*  
   * *i* has the same marginal contribution in these permutations  
@@ -19,14 +20,14 @@ and then input the **value** of players' combination number.
 
 #### example input
 
-*Please input players number :* 3
-*< P1 > value :* 18
-*< P2 > value :* 16
-*< P3 > value :* 10
-*< P1 P2 > value :* 34
-*< P1 P3 > value :* 34
-*< P2 P3 > value :* 30
-*< P1 P2 P3 > value :* 54
+*Please input players number :* 3  
+*< P1 > value :* 18  
+*< P2 > value :* 16  
+*< P3 > value :* 10  
+*< P1 P2 > value :* 34  
+*< P1 P3 > value :* 34  
+*< P2 P3 > value :* 30  
+*< P1 P2 P3 > value :* 54  
 
 ---
   
@@ -34,9 +35,9 @@ and then input the **value** of players' combination number.
 
 it will show the results of every players' **sharply value**  
 
-#### example output
-
-*P1 :* 21
-*P2 :* 18
-*p3 :* 15
+#### example output  
+  
+  *P1 :* 21  
+  *P2 :* 18  
+  *p3 :* 15
 
