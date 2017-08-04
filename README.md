@@ -18,14 +18,14 @@ input how many players in this coalition game and then input the **VALUE** of pl
 
 #### \# Example Input
 ```
-*Please input players number :* 3  
-*< P1 > value :* 18  
-*< P2 > value :* 16  
-*< P3 > value :* 10  
-*< P1 P2 > value :* 34  
-*< P1 P3 > value :* 34  
-*< P2 P3 > value :* 30  
-*< P1 P2 P3 > value :* 54  
+Please input players number : 3  
+< P1 > value : 18  
+< P2 > value : 16  
+< P3 > value : 10  
+< P1 P2 > value : 34  
+< P1 P3 > value : 34  
+< P2 P3 > value : 30  
+< P1 P2 P3 > value : 54  
 ```
 ---
   
@@ -35,8 +35,8 @@ it will show the results of every players' **SHARPLY VALUE**.
 
 #### \# Example Output 
 ```
-*P1 :* 21  
-*P2 :* 18  
-*P3 :* 15  
+P1 : 21  
+P2 : 18  
+P3 : 15  
 ``` 
   
